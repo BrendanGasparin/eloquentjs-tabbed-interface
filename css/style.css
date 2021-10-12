@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+div.tabs {
+    height: auto;
+    width: 200px;
+    border: none;
+}
